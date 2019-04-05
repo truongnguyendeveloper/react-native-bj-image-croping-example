@@ -1,4 +1,14 @@
 
+
+# react-native-bj-image-croping-sample
+
+## Only support iOS
+## Getting started
+
+`$ npm install`
+`$ react-native run-ios`
+
+
 # react-native-bj-image-croping
 
 ## Getting started
